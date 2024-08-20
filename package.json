@@ -1,6 +1,6 @@
 {
   "name": "dot-cli-xell",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool for rendering dot templates with JSON data",
   "main": "dot-cli.js",
   "bin": {
